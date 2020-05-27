@@ -5,5 +5,6 @@ Review criteriamoins
 The rubric contains the following two questions:
 
 1)Does the web page feature a date and is this date less than two months before the date that you're grading this assignment?
-
-2)Is the web page a presentation and does it feature an interactive plot that appears to have been created with Plotly
+2)Is the web page a presentation and does it feature an interactive plot that appears to have been created with Plotly?
+Example Submissionsmoins 
+Here's an extremely minimal passing example, but we hope your submission is much cooler!
